@@ -1,5 +1,7 @@
 As we all know, the Bitcoin price is a fickle thing. You never really know where it’s going to be at the end of the day. So, instead of constantly checking various sites for the latest updates, you can run this script to stay updated.
 
+![Bitcoin Price Notification](https://i.imgur.com/mQ8fCKQ.jpg)
+
 # Bitcoin Price Notification
 
 This is the Bitcoin Price Notification Python Script Package, this script will help you to get notified for the regular updates of bitcoin price on Telegram and IFTTT app notifications. This script will notify you whenever the Bitcoin price goes lower then threshold(You can adjust this according to your needs).
