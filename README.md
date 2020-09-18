@@ -83,6 +83,4 @@ Thank you for your suggestions!
 <a name="lic"></a>
 ## License
 
-------
-
 [MIT](https://choosealicense.com/licenses/mit/)
